@@ -1,0 +1,2 @@
+train_accuracy,test_accuracy,test_f1_score,num_train,num_test,num_features,classes
+1.0,0.8571428571428571,0.7999999999999999,28,7,514,"['demanda_inicial', 'prueba', 'seclo', 'sentencia']"
