@@ -131,4 +131,4 @@ A: Diagonal = aciertos, fuera = errores
 
 ---
 
-**Versión 1.0** | Mica | UADE 2024
+**Versión 1.0** | Micaela Suárez | UADE 2025
